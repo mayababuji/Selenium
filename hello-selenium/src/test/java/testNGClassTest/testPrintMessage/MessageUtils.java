@@ -14,7 +14,7 @@ public class MessageUtils {
 		return message;
 	}
 	public int failedTest() {
-		int a = 0;
+		int a = 1;
 		int b = 1;
 		int sum = b/a;
 		return sum;
