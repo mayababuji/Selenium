@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Include_ExcludeSuite">
+  <test thread-count="5" name="Include_ExcludeTest">
+    <classes>
+      <class name="testNGTestGroup.TestGroupRun">
+      <methods>
+      <exclude name="testByeMessage"></exclude>
+      </methods>
+       </class>
+      
+    </classes>
+  </test> <!-- Include_ExcludeTest -->
+</suite> <!-- Include_ExcludeSuite -->

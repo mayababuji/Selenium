@@ -1,0 +1,51 @@
+[DEBUG]2024-10-2815:03:15.428[main]dsutilities.LoggerLoad1)-Method before
+[INFO ]2024-10-2815:03:15.454[main]dsutilities.LoggerLoad1)-Method test001
+[WARN ]2024-10-2815:03:15.463[main]dsutilities.LoggerLoad1)-Method after
+[DEBUG]2024-10-2815:03:15.471[main]dsutilities.LoggerLoad1)-Method before
+[ERROR]2024-10-2815:03:15.475[main]dsutilities.LoggerLoad1)-Method test002
+[WARN ]2024-10-2815:03:15.482[main]dsutilities.LoggerLoad1)-Method after
+[DEBUG]2024-10-2815:03:15.489[main]dsutilities.LoggerLoad1)-Method before
+[WARN ]2024-10-2815:03:15.496[main]dsutilities.LoggerLoad1)-Method after
+[DEBUG]2024-10-2815:06:16.496[main]dsutilities.LoggerLoad1)-Method before
+[INFO ]2024-10-2815:06:16.521[main]dsutilities.LoggerLoad1)-Method test001
+[INFO ]2024-10-2815:06:16.527[main]dsutilities.LoggerLoad1)-Method after
+[DEBUG]2024-10-2815:06:16.532[main]dsutilities.LoggerLoad1)-Method before
+[INFO ]2024-10-2815:06:16.536[main]dsutilities.LoggerLoad1)-Method test002
+[INFO ]2024-10-2815:06:16.546[main]dsutilities.LoggerLoad1)-Method after
+[DEBUG]2024-10-2815:06:16.552[main]dsutilities.LoggerLoad1)-Method before
+[INFO ]2024-10-2815:06:16.560[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2815:07:09.174[main]dsutilities.LoggerLoad1)-Method test001
+[INFO ]2024-10-2815:07:09.187[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2815:07:09.197[main]dsutilities.LoggerLoad1)-Method test002
+[INFO ]2024-10-2815:07:09.203[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2815:07:09.216[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2815:08:51.890[main]dsutilities.LoggerLoad1)-Method test001
+[INFO ]2024-10-2815:08:51.903[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2815:08:51.910[main]dsutilities.LoggerLoad1)-Method test002
+[INFO ]2024-10-2815:08:51.915[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2815:08:51.931[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2816:08:17.440[TestNG-test-SanityTest-1]dsutilities.LoggerLoad1)-Method test002
+[INFO ]2024-10-2816:08:17.448[TestNG-test-SanityTest-1]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2820:36:50.220[TestNG-test-SanityTest-1]dsutilities.LoggerLoad1)-Method test002
+[INFO ]2024-10-2820:36:50.232[TestNG-test-SanityTest-1]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2820:42:19.792[main]dsutilities.LoggerLoad1)-Method test001
+[INFO ]2024-10-2820:42:19.806[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2820:42:19.817[main]dsutilities.LoggerLoad1)-Method test002
+[INFO ]2024-10-2820:42:19.822[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2820:42:19.839[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2820:42:51.196[TestNG-test-SanityTest-1]dsutilities.LoggerLoad1)-Method test002
+[INFO ]2024-10-2820:42:51.205[TestNG-test-SanityTest-1]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2820:48:38.619[main]dsutilities.LoggerLoad1)-Method test001
+[INFO ]2024-10-2820:48:38.643[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2820:48:38.676[main]dsutilities.LoggerLoad1)-Method test002
+[INFO ]2024-10-2820:48:38.686[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2820:48:38.726[main]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2910:19:11.889[TestNG-test-SanityTest-1]dsutilities.LoggerLoad1)-Method test002
+[INFO ]2024-10-2910:19:11.897[TestNG-test-SanityTest-1]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-10-2910:32:49.657[TestNG-test-SanityTest-1]dsutilities.LoggerLoad1)-Method test002
+[INFO ]2024-10-2910:32:49.665[TestNG-test-SanityTest-1]dsutilities.LoggerLoad1)-Method after
+[INFO ]2024-11-0720:41:12.455[main]dsutilities.LoggerLoad1)-Method test001
+[INFO ]2024-11-0720:44:02.714[main]dsutilities.LoggerLoad1)-Method test001  LOGGER STATEMENT
+[INFO ]2024-11-0720:44:02.725[main]dsutilities.LoggerLoad1)-Method test002  LOGGER STATEMENT
+[INFO ]2024-11-1122:21:39.159[main]dsutilities.LoggerLoad1)-Method test001  LOGGER STATEMENT
+[INFO ]2024-11-1122:21:39.295[main]dsutilities.LoggerLoad1)-Method test002  LOGGER STATEMENT

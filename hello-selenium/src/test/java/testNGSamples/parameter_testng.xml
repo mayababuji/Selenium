@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Parameter_Suite">
+  <test thread-count="5" name="Test1">
+  <parameter name="username" value="maya"></parameter>
+  <parameter name="password" value="@92u3"></parameter>
+  <classes>
+  <class name="testNGSamples.Parameter"/>
+  </classes>
+  </test> <!-- Parameter_Test -->
+   <test thread-count="5" name="Test2">
+  <parameter name="username" value="maya222"></parameter>
+  <parameter name="password" value="@maya222"></parameter>
+  <classes>
+  <class name="testNGSamples.Parameter"/>
+  </classes>
+  </test> <!-- Parameter_Test -->
+</suite> <!-- Parameter_Suite -->

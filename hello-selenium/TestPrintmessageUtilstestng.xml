@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestPrintMessageSuite">
+  <listeners>
+    <listener class-name="testNGClassTest.testPrintMessage.MyTestListener" />
+  </listeners>
+  <test thread-count="5" name="TestPrintMessage">
+    <classes>
+      <class name="testNGClassTest.testPrintMessage.TestMessageUtils"/>
+    </classes>
+  </test> <!-- TestPrintMessage -->
+</suite> <!-- TestPrintMessageSuite -->

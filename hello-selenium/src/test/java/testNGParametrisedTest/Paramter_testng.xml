@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ParameterSuite">
+  <test thread-count="5" name="ParameterTest">
+  <parameter name="myTestString" value="Parameter Testing"></parameter>
+  <parameter name="myTestValueInteger" value="100"></parameter>
+  <parameter name="myTestBoolValue" value="true"></parameter>
+  <parameter name="myTestDoubleValue" value="10.99d"></parameter>
+  <parameter name="myTestChar" value='A'></parameter>
+  <parameter name="myTestByte" value="-128"></parameter>
+  <parameter name="myTestFloat" value="-5.75f"></parameter>
+  <parameter name="myTestLong" value="-111"></parameter>
+  <parameter name="myTestShort" value="-5000"></parameter>
+  <classes>
+  <class name="testNGParametrisedTest.TestParametrised"></class>
+  </classes>
+  </test> <!-- ParameterTest -->
+</suite> <!-- ParameterSuite -->

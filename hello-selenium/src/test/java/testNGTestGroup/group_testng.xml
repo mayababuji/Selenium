@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Group_Suite">
+  <test thread-count="5" name="GroupTest">
+  <groups>
+  <run>
+  <!--excludes in groups -->
+   <exclude name="all"></exclude>
+   <exclude name="functest"></exclude>
+ 
+  
+  </run>
+  </groups>
+    <classes>
+      <class name="testNGTestGroup.TestGroupRun"/>
+    </classes>
+  </test> <!-- GroupTest -->
+</suite> <!-- Group_Suite -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Parallel_Suite" parallel="classes">
+  <test thread-count="10" name="Parallel_Test">
+  <parameter name="username" value="maya"></parameter>
+  <parameter name="password" value="@92u3"></parameter>
+    <classes>
+      <class name="testNGSamples.ParallelTest"/>
+      <class name="testNGSamples.InvocationCount"/>
+      <class name="testNGSamples.Parameter"/>
+    </classes>
+  </test> <!-- Parallel_Test -->
+</suite> <!-- Parallel_Suite -->
