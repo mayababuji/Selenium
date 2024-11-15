@@ -16,7 +16,7 @@ public class Module1 {
 	}
 	@Test
 	public void test001() {
-		LoggerLoad.info("Method test001  LOGGER STATEMENT");
+		LoggerLoad.error("Method test001  LOGGER STATEMENT");
 		//System.out.println("i am first 1st module 1 test suite1");
 	}
 	@Test
