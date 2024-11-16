@@ -86,3 +86,15 @@
 [ERROR]2024-11-1508:40:39.799[main]dsutilities.LoggerLoad1)-Method test001  LOGGER STATEMENT
 [ERROR]2024-11-1508:43:15.062[main]dsutilities.LoggerLoad1)-Method test001  LOGGER STATEMENT
 [INFO ]2024-11-1508:43:15.168[main]dsutilities.LoggerLoad1)-Method test002  LOGGER STATEMENT
+[ERROR]2024-11-1513:23:32.949[main]dsutilities.LoggerLoad1)-Method test001  LOGGER STATEMENT
+[INFO ]2024-11-1513:23:33.116[main]dsutilities.LoggerLoad1)-Method test002  LOGGER STATEMENT
+[ERROR]2024-11-1513:28:31.848[main]dsutilities.LoggerLoad1)-Method test001  LOGGER STATEMENT
+[INFO ]2024-11-1513:28:31.949[main]dsutilities.LoggerLoad1)-Method test002  LOGGER STATEMENT
+[ERROR]2024-11-1614:39:31.200[main]dsutilities.LoggerLoad1)-Method test001  LOGGER STATEMENT
+[INFO ]2024-11-1614:39:31.319[main]dsutilities.LoggerLoad1)-Method test002  LOGGER STATEMENT
+[ERROR]2024-11-1614:42:42.038[main]dsutilities.LoggerLoad1)-Method test001  LOGGER STATEMENT
+[INFO ]2024-11-1614:42:42.164[main]dsutilities.LoggerLoad1)-Method test002  LOGGER STATEMENT
+[ERROR]2024-11-1614:45:18.764[main]dsutilities.LoggerLoad1)-Method test001  LOGGER STATEMENT
+[INFO ]2024-11-1614:45:18.871[main]dsutilities.LoggerLoad1)-Method test002  LOGGER STATEMENT
+[ERROR]2024-11-1614:48:41.609[main]dsutilities.LoggerLoad1)-Method test001  LOGGER STATEMENT
+[INFO ]2024-11-1614:48:41.726[main]dsutilities.LoggerLoad1)-Method test002  LOGGER STATEMENT

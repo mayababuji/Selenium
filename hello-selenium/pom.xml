@@ -15,7 +15,23 @@
           <suiteXmlFiles>
             <suiteXmlFile>testng.xml</suiteXmlFile>
             <suiteXmlFile>testng2.xml</suiteXmlFile>  
+            
+     
              <suiteXmlFile>TestPrintmessageUtilstestng.xml</suiteXmlFile>
+              <suiteXmlFile>src/test/java/testNGDependson/dependsontestng.xml</suiteXmlFile>
+              <suiteXmlFile>src/test/java/testNGExceptionTest/testng.xml</suiteXmlFile>
+         
+                <suiteXmlFile>src/test/java/testNGParametrisedTest/Paramter_testng.xml</suiteXmlFile>
+                
+                 <suiteXmlFile>src/test/java/testNGParametrisedTest/dataprovider_testng.xml</suiteXmlFile>
+                 
+                  <suiteXmlFile>src/test/java/testNGSamples/depend_Skiptestng.xml</suiteXmlFile>
+                  <suiteXmlFile>src/test/java/testNGSamples/parameter_testng.xml</suiteXmlFile>
+                  <suiteXmlFile>src/test/java/testNGSamples/parallel_testng.xml</suiteXmlFile>
+                  <suiteXmlFile>src/test/java/testNGSamples/testngprioriy.xml</suiteXmlFile>
+                  <suiteXmlFile>src/test/java/testNGTestGroup/include_exclude_testng.xml</suiteXmlFile>
+              
+                  
   
           </suiteXmlFiles>
         </configuration>

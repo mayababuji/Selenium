@@ -13,7 +13,7 @@ public class DependMethod {
 		
 		int sumValue = value1 + value2;
 		System.out.println(sumValue);
-		assertEquals(sumValue, 10);
+		assertEquals(sumValue, 5);
 	}
 	@Test(dependsOnMethods = "addMethod1")
 	@Parameters({"value1","value2"})
